@@ -1868,6 +1868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-03 00:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-02 23:02:23 +0000"
