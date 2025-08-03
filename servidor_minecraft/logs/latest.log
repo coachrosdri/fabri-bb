@@ -19,3 +19,31 @@
 [01:09:32] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
 [01:09:43] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
 [01:18:25] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[01:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:22:56] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[01:23:57] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[01:25:49] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[01:26:37] [Server thread/INFO]: [chocolinpy: Set own game mode to Creative Mode]
+[01:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5300ms or 106 ticks behind
+[01:36:57] [Server thread/WARN]: chocolinpy moved too quickly! 6.179653819755458,0.0,8.957610948618822
+[01:37:20] [Server thread/WARN]: chocolinpy moved too quickly! -7.755789230939172,0.0,-7.642913696029609
+[01:37:23] [Server thread/WARN]: chocolinpy moved too quickly! -8.28410630690405,0.0,-7.219213698784188
+[01:37:27] [Server thread/WARN]: chocolinpy moved too quickly! -7.757302467870886,0.0,-6.391185374235647
+[01:37:31] [Server thread/WARN]: chocolinpy moved too quickly! -5.63278992717278,-7.128963367770751,-4.715334681992317
+[01:38:29] [Server thread/WARN]: chocolinpy moved too quickly! -2.067093821742219,0.0,-10.690221533522163
+[01:38:34] [Server thread/WARN]: chocolinpy moved too quickly! 2.882142876657781,3.3750001245381043,-9.315493407223585
+[01:38:48] [Server thread/WARN]: chocolinpy moved too quickly! 1.0524555677743592,0.0,-10.681970268997247
+[01:39:33] [Server thread/INFO]: [chocolinpy: Set own game mode to Survival Mode]
+[01:39:40] [Server thread/INFO]: chocolinpy lost connection: Disconnected
+[01:39:40] [Server thread/INFO]: chocolinpy left the game
+[01:40:03] [Server thread/INFO]: Stopping the server
+[01:40:03] [Server thread/INFO]: Stopping server
+[01:40:03] [Server thread/INFO]: Saving players
+[01:40:03] [Server thread/INFO]: Saving worlds
+[01:40:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:40:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:40:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:40:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:40:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:40:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:40:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
